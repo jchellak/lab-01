@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
       ArrayList<Pettable> PettablePet = new ArrayList<>();
       PettablePet.add(cat);
       PettablePet.add(dog);
-
+      //PettablePet.add(scorpion);
      }
 
 }
